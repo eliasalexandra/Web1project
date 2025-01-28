@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+h2{
+    text-align: center;
+    color:turquoise ;
+}
+h6{
+    text-align: center;
+    color: gold;
+}
+ hr{
+
+        background-color: rgb(43, 255, 0);
+        width: auto;
+        height: 5px;
+
+      
+
+}
+#p1{
+    color: red;
+    background-color:blueviolet;
+    border: solid 10px
+}
+#p2{
+    color: red;
+    background-color:silver;
+    border: solid 10px;
+}
+#p3{
+    color: red;
+    background-color:green;
+    border: solid 10px
+}
+#p4{
+    color: red;
+    background-color: olive;
+    border: solid 10px
+}
+
+.divONE {
+    border: solid 20px blue;
+    background-color: lightgreen;
+    text-align: center;
+    height: 800px;
+    width: 1200px;
+}
+.divONE { 
+    width: 300px; 
+    height: 200px;
+    background-color: red;
+}
+.divTwo { 
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+
