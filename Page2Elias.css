@@ -1,0 +1,104 @@
+ h1 {
+    font-family: 'Cinzel', serif;
+    font-size: 3.5rem;
+    color: #3c2f2f;
+    text-align: center;
+    margin-top: 40px;
+    text-shadow: 1px 5px 2px rgba(0, 0, 0, 0.1);
+ }
+
+
+#img1{
+
+    height: 250px;
+    width: 440px;
+    margin-left: 30px;
+    margin-top: 75px;
+    border: 3px solid rgb(131, 47, 47)
+    
+
+}
+
+p {
+    margin-top: -260px;
+    margin-left: 650px;
+    margin-right: 30px;
+    border-radius: 10px;
+    font-size: 22px;
+    text-align: justify;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    background-color:bisque;
+    border: 3px solid darkgreen;
+    padding: 7px;
+    
+ }
+
+ #img2{
+
+    height: 240px;
+    width: 440px;
+    margin-left: 770px;
+    margin-top: 80px;
+    border: 3px solid rgb(131, 47, 47)
+    
+
+}
+
+#p2{
+
+    margin-right: 650px ;
+    margin-left: 30px;
+    font-size: 22px;
+}
+
+#img3{
+
+    height: 240px;
+    width: 440px;
+    border: 3px solid rgb(131, 47, 47) ;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#p3{
+
+    margin-top: -250px;
+    font-size: 22px;
+}
+    
+#p4 {
+    font-size: 15px;
+    text-align:center;
+    margin-top: 110px; 
+    margin-left: 2px;
+    margin-right: 2px;
+    background: bisque;
+    border: 1px solid rgb(131, 47, 47);
+  }
+
+body {
+    background-color:#e7ddc6; /* warm, subtle beige */
+  
+  }
+
+  .navbar ul{
+    list-style-type: none;
+    background-color: #c2b493;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: #3c2f2f;;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(131,47,47);
+}
+.navbar li{
+    float: left;
+}

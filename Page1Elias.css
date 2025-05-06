@@ -1,0 +1,96 @@
+/* Reset and Base Styles */
+body {
+  background-color: #e7ddc6;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #3c2f2f;
+}
+
+/* Typography */
+h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 3.5rem;
+  text-align: center;
+  margin: 40px 0;
+  text-shadow: 1px 5px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Main Content Layout */
+.content-section {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 70px 5%;
+  position: relative; /* For absolute positioning if needed */
+}
+
+#img1 {
+  width: 500px;
+  height: auto;
+  margin-top: 20px;
+  flex-shrink: 0; /* Prevents image from shrinking */
+}
+
+.text-section {
+  max-width: 600px;
+  font-size: 1.3rem;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.7;
+  margin-top: 5px; /* Pulls text up by 300px */
+  position: relative; /*Better than transform for this case */
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  margin: 100px 0 10px;
+}
+
+#p1 {
+  font-size: 15px;
+  text-align: center;
+  margin: 20px auto;
+  padding: 10px;
+  background: bisque;
+  border: 1px solid rgb(131, 47, 47);
+  width: fit-content;
+}
+
+/* Social Icons */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 100px;
+  margin-bottom: 5px;
+}
+
+.icon {
+  width: 45px;
+  height: 50px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: #c2b493;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color:#3c2f2f;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(131,47,47);
+}
+.navbar li{
+    float: left;
+}
