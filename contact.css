@@ -18,3 +18,55 @@
 .navbar li{
     float: left;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:  #e7ddc6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .contact-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+  }
+  
+  .contact-text {
+    max-width: 50%;
+  }
+  
+  .mini-heading {
+    color: #445D1C;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  .description {
+    margin: 20px 0;
+    color: #333;
+  }
+  
+  a {
+    color: #6a70da;
+    text-decoration: none;
+  }
+  
+  #contimg{
+    width: 90%;
+    height: 250px;
+    background-color: #f2dccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #444;
+    font-size: 18px;
+    border-radius: 10px;
+}
+  
