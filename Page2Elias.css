@@ -7,6 +7,8 @@
     text-shadow: 1px 5px 2px rgba(0, 0, 0, 0.1);
  }
 
+ 
+
 
 #img1{
 
@@ -79,6 +81,7 @@ p {
 
 body {
     background-color:#e7ddc6; /* warm, subtle beige */
+ margin: 0px;
   
   }
 
