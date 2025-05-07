@@ -85,6 +85,13 @@ main{
 h1{
     text-align: center;
 }
+
+body {
+    background-color:  #cfc09d;
+    margin: 0px;
+  
+}
+
 .navbar ul{
     list-style-type: none;
     background-color: #c2b493;
