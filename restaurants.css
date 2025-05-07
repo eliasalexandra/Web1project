@@ -109,8 +109,8 @@ body {
     width: 100%;
     height: auto;
     object-fit: cover;
-    max-height: 200px; /* or adjust based on your design */
-    border-radius: 4px; /* optional, makes it look cleaner */
+    max-height: 200px; 
+    border-radius: 4px; 
   }
 
   #img1{
