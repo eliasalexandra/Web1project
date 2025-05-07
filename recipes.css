@@ -46,7 +46,7 @@ h1 {
 }
 
 .ingredients-instructions {
-    display: flex;       /*to fold this text*/
+    display: flex;      
     justify-content: space-between;
     margin-bottom: 20px;
     padding: 10px;
@@ -127,7 +127,7 @@ h2{
 }
 
 .container1 {
-    max-width: 800px;  /*makes the container shrink*/
+    max-width: 800px;  
     margin: 0 auto;
     padding: 10px;
     background-color: #e7ddc6;
