@@ -132,6 +132,12 @@ width:500px;
         height: 50px;
         width: 50px;
           }    
+
+body {
+    background-color:#e7ddc6; /* warm, subtle beige */
+    margin: 0px;
+  
+  }
           .navbar ul{
             list-style-type: none;
             background-color: #c2b493;
