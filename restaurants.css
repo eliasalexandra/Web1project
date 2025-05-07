@@ -25,9 +25,6 @@ body {
     flex-wrap: wrap;
   }
   
-  .info {
-    flex: 60%;
-  }
   
   .info h2 {
     margin: 0;
@@ -51,7 +48,6 @@ body {
   }
   
   .map {
-    flex: 35%;
     height: 200px;
     background-color: #ccc;
     text-align: center;
@@ -69,7 +65,6 @@ body {
   }
   
   .details div {
-    flex: 45%;
     background-color: #eee;
     padding: 10px;
     margin-top: 10px;
